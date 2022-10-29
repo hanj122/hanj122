@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [hanjibot](https://discord.com/api/oauth2/authorize?client_id=1030464876440727553&permissions=8&scope=bot)
 
-- 🌱 I’m currently learning **python and nextcord**
+- 💻 I’m currently learning **python, nextcord, HTML, and CSS** (specifically for Web Developing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
