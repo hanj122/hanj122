@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jihan</h1>
-<h3 align="center">Grade 11 Student @ San Beda Alabang</h3>
+<h3 align="center">1st Year @ Mapua University - Makati</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=822jihan&label=Profile%20views&color=0e75b6&style=flat" alt="hanj122" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hanj122" target="blank"><img src="https://img.shields.io/twitter/follow/hanj122?logo=twitter&style=for-the-badge" alt="hanj122" /></a> </p>
-
-- 💻 I’m currently taking **CS50** to gain experience before going into college :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
